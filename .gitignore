@@ -416,3 +416,14 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# macOS
+.DS_Store
+
+# Python / Project specific
+.pytest_cache/
+*.xlsx
+gbe_trading.log
+*.egg-info/
+dist/
+build/
